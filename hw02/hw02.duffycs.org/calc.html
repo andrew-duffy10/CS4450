@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="calc.css">
+    <title>Calculator App</title>
+    <script src="calc.js"></script>
+</head>
+<body>
+    <p>Usage: </p>
+    <ol>
+    <li>Select a number by inputing its characters in sequence.</li>
+        <li>Select an operator. This will update the display to show "0".</li>
+        <li>Input the second number.</li>
+        <li>Press the "+/=" button to view results.</li>
+        <li> Optional: select a new operator to continue the calculation with the given result.</li>
+    </ol>
+    <p>Note: Input Errors result in the calculator clearing.</p>
+    
+    <!-- The table containing a number display and the grid of buttons -->
+    <table>
+        <tr>
+            <th colspan="4" class="numdisp"><output id="disp">0</output></th>
+        </tr>
+        <tr>
+            <td><button id="1">1</button></td>
+            <td><button id="2">2</button></td>
+            <td><button id="3">3</button></td>
+            <td><button id="+/=">+/=</button></td>
+        </tr>
+        <tr>
+            <td><button id="4">4</button></td>
+            <td><button id="5">5</button></td>
+            <td><button id="6">6</button></td>
+            <td><button id="-">-</button></td>
+        </tr>
+        <tr>
+            <td><button id="7">7</button></td>
+            <td><button id="8">8</button></td>
+            <td><button id="9">9</button></td>
+            <td><button id="*">*</button></td>
+
+        </tr>
+        <tr>
+            <td><button id="C">C</button></td>
+            <td><button id="0">0</button></td>
+            <td><button id=".">.</button></td>
+            <td><button id="/">/</button></td>
+        </tr>
+     
+    </table>
+    
+    <!-- A useful link to get back to the HW02 page -->
+    <a href="index.html">back</a>
+</body>
+
+</html>
