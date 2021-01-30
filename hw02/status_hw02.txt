@@ -1,0 +1,43 @@
+Please fill in answers to the questions below:
+
+
+1. What's your name?
+Andrew Duffy
+
+2. What hostname did you deploy to?
+hw02.duffycs.org
+
+3. What's the link to your repository on github with your code?
+https://github.com/andrew-duffy10/CS4450
+
+4. How many HTML / CSS tutorial exercises did you do?
+2, but I read most of the chapters
+
+5. How comfortable do you feel with HTML and CSS now?
+7/10
+
+6. How many JS tutorial exercises did you do?
+1
+
+7. How comfortable do you feel with JS now?
+Before this assignment 0/10, after this assignment 5/10
+
+8. Do all of your HTML pages pass the W3C HTML validator?
+(https://validator.w3.org/)
+Yes- But I am receiving a warning about not declaring "lang", I'm not sure if this is standard but if it is something I need please let me know.
+
+9. Which parts of this assignment did you have trouble with, if any?
+The calculator took the most time because it has a lot of special cases I had to account for, other than that I think I managed ok.
+
+
+
+
+And here's a list of tasks for grading comments. Just leave this here:
+ - Task 1
+ - Task 2
+ - Task 3
+ - Task 4
+ - Task 5
+ - Task 6
+ - Task 7
+ - Task 8
